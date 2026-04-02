@@ -2,7 +2,7 @@
   "name": "Kneipen-Kasse",
   "short_name": "Kasse",
   "description": "Kassensystem für Kneipen und Bars",
-  "start_url": "/Kneipen-Kasse.html",
+  "start_url": "/kasse/index.html",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#1a1108",
